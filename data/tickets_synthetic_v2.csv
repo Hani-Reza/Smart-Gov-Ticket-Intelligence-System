@@ -1,0 +1,151 @@
+ticket_id,text,category,sentiment,priority,government_entity,emirates_id,phone_number
+74,Payment made but still showing as pending,Billing,Negative,Medium,Etisalat,784-1982-5437993-8,
+19,Poor condition of security cameras in Business Bay,Facilities,Negative,High,Dubai Municipality,784-2000-4987769-5,+971521473799
+119,No response to my inquiry about charges,Inquiry,Negative,Low,GDRFA,784-1985-2169958-7,+971563465472
+79,Invoice details request,Billing,Neutral,Medium,Du,784-1999-2499125-2,+971502528669
+77,Payment made but still showing as pending,Billing,Negative,Medium,DEWA,784-1989-6112545-8,+971567571775
+32,payment system crashed during registration,Technical / IT,Negative,High,DEWA,784-2000-7461200-5,+971501382675
+65,Need clarification on billing statement,Billing,Neutral,Medium,Etisalat,784-1997-3028439-6,+971585342836
+142,URGENT: electrical hazard at Downtown Dubai - immediate action needed,Safety / Emergency,Negative,Critical,Municipality,784-2002-4964759-9,+971552202341
+69,Need clarification on billing statement,Billing,Neutral,Medium,Etisalat,784-2001-0062312-1,+971555099770
+83,Need clarification on billing statement,Billing,Neutral,Medium,RTA,784-1984-9750017-1,
+111,Query regarding payment requirements,Inquiry,Neutral,Low,Amer,784-2004-1296666-8,+971508350583
+13,Poor condition of fire alarm in Bur Dubai,Facilities,Negative,High,Dubai Municipality,784-1990-6482366-3,+971546804436
+37,portal crashed during registration,Technical / IT,Negative,Medium,RTA,784-1991-1493689-9,
+10,Schedule lighting system repair for Al Ain,Facilities,Neutral,Medium,DEWA,,+971528059826
+20,lighting system not working at Deira for 16 hours,Facilities,Negative,High,DEWA,784-1987-7770143-7,+971549578856
+57,Tasheel website down since 9:30,Technical / IT,Negative,Medium,Tasheel,784-2005-9930972-9,+971566230913
+105,Conflicting information received from Du,Inquiry,Negative,Low,Du,,+971545054447
+70,Bill payment process was seamless,Billing,Positive,Medium,RTA,784-1982-5679334-2,+971580166687
+56,Cannot login to Etisalat portal - error message,Technical / IT,Negative,High,Etisalat,,+971558729825
+133,URGENT: gas leak at Dubai Marina - immediate action needed,Safety / Emergency,Negative,Critical,Civil Defense,,+971521498643
+30,Urgent repair needed for parking machine at Downtown Dubai,Facilities,Negative,High,Sharjah Municipality,784-1994-4367136-6,+971584064090
+128,Request for safety inspection at Abu Dhabi City,Safety / Emergency,Neutral,High,RTA,784-1997-4887256-4,+971564278816
+27,elevator inspection needed at Silicon Oasis,Facilities,Neutral,Low,Dubai Municipality,784-1993-5840449-8,+971558755886
+129,Need guidance on safety protocols for school zone,Safety / Emergency,Neutral,High,Civil Defense,784-1981-3856770-1,+971541844989
+132,Request for safety inspection at Jumeirah,Safety / Emergency,Neutral,High,Municipality,,+971566291279
+146,Hazard reported and resolved promptly,Safety / Emergency,Positive,High,Civil Defense,,+971503120735
+109,No response to my inquiry about charges,Inquiry,Negative,Low,Dubai Municipality,784-2000-7584282-5,
+144,Emergency situation at Motor City - help required,Safety / Emergency,Negative,Critical,Municipality,784-1980-8254780-8,+971554064930
+46,Etisalat online portal working smoothly now,Technical / IT,Positive,Medium,Etisalat,,+971568089324
+31,Cannot login to DEWA portal - error message,Technical / IT,Negative,Medium,DEWA,784-1985-3285884-3,+971554517123
+23,Urgent repair needed for fire alarm at Motor City,Facilities,Negative,High,Sharjah Municipality,,+971520679740
+16,Bur Dubai community center improvements are appreciated,Facilities,Positive,Low,RTA,,+971558893734
+66,Invoice details request,Billing,Neutral,Medium,DEWA,,+971582708668
+12,Poor condition of street lights in Jumeirah,Facilities,Negative,High,DEWA,,+971540196556
+43,Cannot login to Tasheel portal - error message,Technical / IT,Negative,Medium,Tasheel,784-1980-5423573-4,+971521418880
+147,Request for safety inspection at Al Barsha,Safety / Emergency,Neutral,High,Municipality,784-2002-3673037-2,+971527645208
+52,Cannot login to Etisalat portal - error message,Technical / IT,Negative,Medium,Etisalat,784-1996-4143842-5,+971508299229
+28,Request for street lights maintenance in Umm Al Quwain,Facilities,Neutral,Medium,DEWA,784-1994-0262174-6,+971551586578
+5,water fountain inspection needed at Al Barsha,Facilities,Neutral,Medium,Dubai Municipality,784-1992-5787133-2,+971568393010
+33,Cannot login to Du portal - error message,Technical / IT,Negative,Medium,Du,784-2000-5064317-2,+971589005329
+143,Report of potential safety issue at Silicon Oasis,Safety / Emergency,Neutral,High,Municipality,784-1994-2282005-6,+971558487282
+86,Invoice details request,Billing,Neutral,Medium,Etisalat,,+971589404389
+87,Overcharged for water by RTA,Billing,Negative,Medium,RTA,784-2004-1091043-1,+971558486661
+17,public restroom inspection needed at Deira,Facilities,Neutral,Low,Dubai Municipality,,+971554641708
+11,Public AC system renovation completed ahead of schedule,Facilities,Positive,Low,DEWA,784-2003-3421607-4,
+82,Incorrect charges on Etisalat bill,Billing,Negative,Medium,Etisalat,784-1984-3253672-5,+971557116845
+134,Hazard reported and resolved promptly,Safety / Emergency,Positive,High,Civil Defense,784-2001-6368872-6,+971554495621
+138,Emergency situation at Ras Al Khaimah - help required,Safety / Emergency,Negative,Critical,Civil Defense,784-1987-3433339-6,
+76,Payment made but still showing as pending,Billing,Negative,Medium,Etisalat,784-1982-7979688-7,+971548911352
+110,Information provided was very helpful,Inquiry,Positive,Low,Sharjah Municipality,784-2000-9991738-2,+971558460223
+97,Thank you for prompt response to my query,Inquiry,Positive,Low,Dubai Municipality,784-1985-7010393-1,+971505932525
+106,No response to my inquiry about status,Inquiry,Negative,Low,ICA,784-1996-6289023-4,+971520705345
+67,Incorrect charges on RTA bill,Billing,Negative,Medium,RTA,784-1990-4033173-4,+971528546785
+1,Urgent repair needed for water fountain at Jumeirah,Facilities,Negative,High,Dubai Municipality,,+971502654235
+123,Report of potential safety issue at Bur Dubai,Safety / Emergency,Neutral,High,Municipality,784-2001-5616484-1,+971548877043
+68,Invoice details request,Billing,Neutral,Medium,Du,,
+29,Dubai Municipality maintenance team was very professional,Facilities,Positive,Low,Dubai Municipality,,+971562221969
+41,RTA system access issue,Technical / IT,Neutral,Medium,RTA,784-2000-4490581-5,+971500541199
+45,Du website down since 3:30,Technical / IT,Negative,Medium,Du,784-1987-6153051-6,+971520472779
+61,Query about RTA charges for last month,Billing,Neutral,Medium,RTA,784-1996-5161227-6,+971504637454
+124,Report of potential safety issue at Sheikh Zayed Road,Safety / Emergency,Neutral,High,Civil Defense,,
+25,Urgent repair needed for water fountain at Deira,Facilities,Negative,High,Dubai Municipality,784-1985-5674680-8,
+26,security cameras inspection needed at Downtown Dubai,Facilities,Neutral,Medium,Dubai Municipality,,+971522480861
+24,Schedule lighting system repair for Sheikh Zayed Road,Facilities,Neutral,Low,DEWA,784-1994-4648877-2,+971555940139
+95,Excellent service at Dubai Land Department center,Inquiry,Positive,Low,Dubai Land Department,784-1988-4720999-4,+971556870146
+40,Technical issue resolved quickly by Etisalat team,Technical / IT,Positive,Medium,Etisalat,784-1987-6968164-6,+971521818835
+96,Information provided was very helpful,Inquiry,Positive,Low,Abu Dhabi Government,,+971540785932
+118,Conflicting information received from Dubai Land Department,Inquiry,Negative,Low,Dubai Land Department,784-1981-2726149-4,
+48,RTA online portal working smoothly now,Technical / IT,Positive,Medium,RTA,784-1993-6765277-6,+971564161692
+98,Information provided was very helpful,Inquiry,Positive,Low,Tasheel,,+971589539264
+114,Thank you for prompt response to my query,Inquiry,Positive,Low,Abu Dhabi Government,784-1998-7218114-4,+971544701204
+34,Du system access issue,Technical / IT,Neutral,Medium,Du,784-1987-9502402-7,+971581775891
+139,Hazard reported and resolved promptly,Safety / Emergency,Positive,High,Civil Defense,784-1997-0856271-9,+971580036915
+102,Thank you for prompt response to my query,Inquiry,Positive,Low,Etisalat,,+971525652704
+63,Payment refund processed quickly,Billing,Positive,Medium,Etisalat,784-1997-7406403-2,
+85,Query about RTA charges for December,Billing,Neutral,Medium,RTA,,+971522189092
+149,Emergency situation at Ajman - help required,Safety / Emergency,Negative,Critical,Municipality,,+971585730652
+54,Need assistance with DEWA online services,Technical / IT,Neutral,Medium,DEWA,784-1984-1046963-3,+971565327877
+6,elevator inspection needed at Jumeirah,Facilities,Neutral,Low,Dubai Municipality,784-1994-0106513-4,
+94,Cannot get clear answer about fees,Inquiry,Negative,Low,GDRFA,,+971541994101
+112,Information provided was very helpful,Inquiry,Positive,Low,DEWA,784-1984-5753260-4,+971523098215
+50,Cannot login to Tasheel portal - error message,Technical / IT,Negative,Medium,Tasheel,784-1986-9473121-8,
+36,Need assistance with RTA online services,Technical / IT,Neutral,Medium,RTA,,
+81,Bill payment process was seamless,Billing,Positive,Medium,DEWA,784-1983-3407451-8,+971503395962
+78,Payment refund processed quickly,Billing,Positive,Medium,DEWA,784-1993-6093796-7,
+35,Technical query regarding portal,Technical / IT,Neutral,Medium,RTA,784-1982-2499856-9,+971569611836
+115,Query regarding renewal requirements,Inquiry,Neutral,Low,ADNOC,784-1994-4676212-1,+971521697972
+8,playground equipment inspection needed at Sharjah Industrial Area,Facilities,Neutral,Medium,Sharjah Municipality,784-2001-3619399-1,+971559985435
+44,Du website down since 3:00,Technical / IT,Negative,Medium,Du,784-2005-7359774-7,+971552392407
+71,Payment refund processed quickly,Billing,Positive,Medium,DEWA,,+971503926142
+99,No response to my inquiry about charges,Inquiry,Negative,Low,DHA,,+971505704331
+121,Emergency response was very quick - thank you,Safety / Emergency,Positive,High,Municipality,784-2000-5989334-8,
+84,Overcharged for water by RTA,Billing,Negative,Medium,RTA,784-2003-3611037-2,
+135,Emergency situation at Bur Dubai - help required,Safety / Emergency,Negative,Critical,Municipality,,+971560669849
+136,Hazard reported and resolved promptly,Safety / Emergency,Positive,High,DHA,784-2004-6566938-1,+971501848955
+90,Query about Etisalat charges for November,Billing,Neutral,Medium,Etisalat,,+971544518705
+9,Request for water fountain maintenance in Downtown Dubai,Facilities,Neutral,Medium,Sharjah Municipality,784-1997-4980841-3,+971508244935
+14,Poor condition of lighting system in Downtown Dubai,Facilities,Negative,High,DEWA,,+971561769367
+120,Thank you for prompt response to my query,Inquiry,Positive,Low,DED,784-1996-1062003-5,+971524420438
+126,Request for safety inspection at Dubai Marina,Safety / Emergency,Neutral,High,DHA,,+971521290878
+4,elevator not working at Deira for 22 hours,Facilities,Negative,High,Dubai Municipality,784-1994-0482814-9,+971525288095
+18,DEWA maintenance team was very professional,Facilities,Positive,Medium,DEWA,784-1985-4190496-7,+971521931491
+39,Technical query regarding website,Technical / IT,Neutral,Medium,RTA,784-1989-5107622-7,+971528851606
+73,Invoice details request,Billing,Neutral,Medium,RTA,784-1997-8610158-2,+971546046618
+137,URGENT: electrical hazard at Downtown Dubai - immediate action needed,Safety / Emergency,Negative,Critical,RTA,784-1992-9735779-1,+971541633565
+7,Request for water fountain maintenance in Downtown Dubai,Facilities,Neutral,Medium,Sharjah Municipality,,
+113,Conflicting information received from RTA,Inquiry,Negative,Low,RTA,784-2000-0461849-3,+971508914117
+101,Status check for license,Inquiry,Neutral,Low,Etisalat,784-1989-3106987-3,
+3,Schedule public restroom repair for Al Barsha,Facilities,Neutral,Medium,RTA,,+971549696532
+64,Invoice details request,Billing,Neutral,Medium,DEWA,784-1991-1286823-1,+971547868633
+55,DEWA website down since 4:00,Technical / IT,Negative,High,DEWA,784-2003-5650609-9,
+127,Safety inspection completed thoroughly,Safety / Emergency,Positive,High,Civil Defense,784-1984-9955620-6,+971526452577
+51,website crashed during payment,Technical / IT,Negative,High,Etisalat,784-1998-5782911-5,+971587866912
+116,Cannot get clear answer about requirements,Inquiry,Negative,Low,Dubai Courts,784-1987-7562890-1,+971528772175
+47,Need assistance with Du online services,Technical / IT,Neutral,Medium,Du,784-1982-5319520-6,+971582772217
+140,Report of potential safety issue at Jumeirah,Safety / Emergency,Neutral,High,RTA,784-1998-2931438-7,+971522270267
+62,Overcharged for water by DEWA,Billing,Negative,Medium,DEWA,784-1994-9568783-4,+971561878519
+148,Safety hazard reported but no response,Safety / Emergency,Negative,Critical,RTA,,
+80,Thank you for resolving billing discrepancy,Billing,Positive,Medium,RTA,,+971568767677
+60,System upgrade completed successfully,Technical / IT,Positive,Medium,Tasheel,784-2003-0262067-3,+971540049915
+92,Cannot get clear answer about fees,Inquiry,Negative,Low,Tasheel,,+971546557431
+42,website crashed during booking,Technical / IT,Negative,High,DEWA,784-1994-8892554-7,+971549051518
+59,Cannot login to Tasheel portal - error message,Technical / IT,Negative,Medium,Tasheel,,+971563308330
+91,Query regarding payment requirements,Inquiry,Neutral,Low,Amer,,+971584138367
+49,Tasheel website down since 8:30,Technical / IT,Negative,Medium,Tasheel,784-2005-2029702-2,+971585569092
+89,Invoice details request,Billing,Neutral,Medium,Du,784-1981-7925241-2,+971560003075
+108,Conflicting information received from DEWA,Inquiry,Negative,Low,DEWA,784-1980-8589944-2,+971544544432
+125,Emergency situation at Business Bay - help required,Safety / Emergency,Negative,Critical,Civil Defense,784-1983-4491476-7,+971507283268
+22,DEWA maintenance team was very professional,Facilities,Positive,Low,DEWA,,+971502294131
+58,Technical issue resolved quickly by Tasheel team,Technical / IT,Positive,Medium,Tasheel,784-2001-4973348-5,+971544375758
+145,Safety hazard reported but no response,Safety / Emergency,Negative,Critical,DHA,,
+130,Safety inspection completed thoroughly,Safety / Emergency,Positive,High,Municipality,,+971522225913
+38,Tasheel website down since 6:00,Technical / IT,Negative,Medium,Tasheel,784-1991-4599102-3,+971501476797
+141,Safety inspection completed thoroughly,Safety / Emergency,Positive,High,RTA,784-2005-4506159-4,+971588245587
+2,New public restroom installed in Ajman - excellent work,Facilities,Positive,Medium,Sharjah Municipality,784-1983-6475255-4,+971581928327
+53,Cannot login to Du portal - error message,Technical / IT,Negative,Medium,Du,,
+131,Need guidance on safety protocols for construction,Safety / Emergency,Neutral,High,RTA,,+971566990413
+104,Excellent service at Dubai Land Department center,Inquiry,Positive,Low,Dubai Land Department,784-1988-8709986-2,+971529991191
+100,Status check for permit,Inquiry,Neutral,Low,ICA,784-2005-0405411-6,
+117,Need information about Sharjah Municipality internet,Inquiry,Neutral,Low,Sharjah Municipality,,+971568019948
+88,Overcharged for water by Etisalat,Billing,Negative,Medium,Etisalat,,+971504210202
+75,Need clarification on billing statement,Billing,Neutral,Medium,RTA,784-2000-7935646-6,
+122,URGENT: gas leak at Umm Al Quwain - immediate action needed,Safety / Emergency,Negative,Critical,DHA,784-1999-0947985-2,+971548328182
+150,Request for safety inspection at Ras Al Khaimah,Safety / Emergency,Neutral,High,Civil Defense,784-1994-0862095-4,+971508638782
+21,Poor condition of lighting system in Al Ain,Facilities,Negative,High,DEWA,784-1989-3524082-5,
+72,Payment made but still showing as pending,Billing,Negative,Medium,RTA,784-2005-7735866-3,+971586194311
+107,Conflicting information received from DED,Inquiry,Negative,Low,DED,,+971523334680
+15,Schedule AC system repair for Abu Dhabi City,Facilities,Neutral,Medium,RTA,784-1995-7434873-5,+971584345581
+93,Cannot get clear answer about process,Inquiry,Negative,Low,Tasheel,,+971549035213
+103,Need information about Sharjah Municipality electricity,Inquiry,Neutral,Low,Sharjah Municipality,,+971580898992

@@ -1,0 +1,3 @@
+# System Audit Log - SmartGov Triage System
+# Format: timestamp|category|sentiment|confidence|priority|human_review|ticket_id|keywords_detected
+2024-01-15 08:30:00|SYSTEM|INFO|1.0|LOW|False|SYSTEM_INIT|System initialized

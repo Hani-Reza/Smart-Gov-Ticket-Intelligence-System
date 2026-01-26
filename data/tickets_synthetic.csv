@@ -1,0 +1,53 @@
+text,category,sentiment
+The AC in the main hall is leaking water,Facilities,Negative
+AC is blowing hot air in the office,Facilities,Negative
+The elevator buttons are unresponsive on the 5th floor,Facilities,Negative
+Light bulbs in the parking lot are flickering,Facilities,Neutral
+There is a major water leak in the server room,Facilities,Negative
+The office chair is broken and needs replacement,Facilities,Neutral
+The washroom tap is running and cannot be closed,Facilities,Negative
+I cannot log into the government portal using my EID,Technical,Negative
+The website is showing a 404 error on the payment page,Technical,Negative
+My laptop screen is flickering and I cannot work,Technical,Negative
+The application crashes every time I click submit,Technical,Negative
+I forgot my password for the HR system,Technical,Neutral
+The VPN connection is extremely slow today,Technical,Negative
+Reset my dual-factor authentication for my email,Technical,Neutral
+I was charged twice for my DEWA utility bill,Billing,Negative
+I need a copy of my VAT invoice from last month,Billing,Neutral
+My refund for the overpayment is still pending,Billing,Negative
+The payment gateway declined my credit card twice,Billing,Negative
+I want to update my bank account details for salary,Billing,Neutral
+Why is there a late fee on my statement?,Billing,Negative
+What are the working hours during Ramadan?,Inquiry,Neutral
+Where is the nearest Tasheel center located?,Inquiry,Neutral
+How do I apply for a Golden Visa for my family?,Inquiry,Neutral
+Requirements for Emirates ID renewal for residents,Inquiry,Neutral
+Is there a public holiday next Thursday?,Inquiry,Neutral
+How can I book a parking permit for the weekend?,Inquiry,Neutral
+The AC in the main hall is leaking water,Facilities,Negative
+AC is blowing hot air in the office,Facilities,Negative
+The elevator buttons are unresponsive on the 5th floor,Facilities,Negative
+Light bulbs in the parking lot are flickering,Facilities,Neutral
+There is a major water leak in the server room,Facilities,Negative
+The office chair is broken and needs replacement,Facilities,Neutral
+The washroom tap is running and cannot be closed,Facilities,Negative
+I cannot log into the government portal using my EID,Technical,Negative
+The website is showing a 404 error on the payment page,Technical,Negative
+My laptop screen is flickering and I cannot work,Technical,Negative
+The application crashes every time I click submit,Technical,Negative
+I forgot my password for the HR system,Technical,Neutral
+The VPN connection is extremely slow today,Technical,Negative
+Reset my dual-factor authentication for my email,Technical,Neutral
+I was charged twice for my DEWA utility bill,Billing,Negative
+I need a copy of my VAT invoice from last month,Billing,Neutral
+My refund for the overpayment is still pending,Billing,Negative
+The payment gateway declined my credit card twice,Billing,Negative
+I want to update my bank account details for salary,Billing,Neutral
+Why is there a late fee on my statement?,Billing,Negative
+What are the working hours during Ramadan?,Inquiry,Neutral
+Where is the nearest Tasheel center located?,Inquiry,Neutral
+How do I apply for a Golden Visa for my family?,Inquiry,Neutral
+Requirements for Emirates ID renewal for residents,Inquiry,Neutral
+Is there a public holiday next Thursday?,Inquiry,Neutral
+How can I book a parking permit for the weekend?,Inquiry,Neutral

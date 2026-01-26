@@ -303,7 +303,4 @@ Built with ❤️ for the AI Engineering Community
 
 Professional • Production-Ready • Portfolio Project
 
-https://img.shields.io/github/stars/Hani-Reza/SMART-GOV-TRIAGE?style=social
-https://img.shields.io/github/forks/Hani-Reza/SMART-GOV-TRIAGE?style=social
-
 </div> ```

@@ -18,6 +18,7 @@ The **GCC Smart-Gov Ticket Intelligence System** is a production-grade AI soluti
 - **Real-time analytics** for government service optimization
 
 ## 🏗️ System Architecture
+```
 ┌─────────────────────────────────────────────────────────────┐
 │ Streamlit UI Layer │
 │ (Professional Interface for Government Analysts) │
@@ -47,7 +48,7 @@ The **GCC Smart-Gov Ticket Intelligence System** is a production-grade AI soluti
 │ • Balanced category distribution │
 │ • Realistic PII data for testing │
 └─────────────────────────────────────────────────────────────┘
-
+```
 
 ## 🔬 **Hybrid AI Approach**
 
@@ -212,6 +213,7 @@ PII Detection	      >95%	      98.2%
 - Security best practices
 
 ### 📁 Project Structure
+```
 smart-gov-triage/
 ├── .streamlit/              # Streamlit configuration
 │   └── config.toml         # UI theme and settings
@@ -230,8 +232,7 @@ smart-gov-triage/
 │   └── app.py            # Streamlit web application
 ├── requirements.txt       # Python dependencies
 └── README.md             # This document
-
-
+```
 ### Key improvements made 24/1/26
 1. FIXED Example Button Issue:
 Problem: Streamlit reinitializes on button click
